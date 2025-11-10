@@ -31,6 +31,7 @@ Storage: Google Sheets (Master Data)
 Automation: Cron / Python schedule library
 
 🗂️ Project Structure
+
 internship-analytics/
 │
 ├── scripts/              # Python scripts for ETL and report generation
