@@ -33,13 +33,21 @@ Automation: Cron / Python schedule library
 🗂️ Project Structure
 
 internship-analytics/
+
 │
-├── scripts/              # Python scripts for ETL and report generation
-├── data/                 # Test or exported data (gitignored)
-├── dashboard/            # Looker Studio design docs and screenshots
-├── docs/                 # Project documentation
-├── config/               # Sheet registry & credentials (gitignored)
+
+├── scripts/               # Python scripts for ETL and report generation
+
+├── data/                  # Test or exported data (gitignored)
+
+├── dashboard/             # Looker Studio design docs and screenshots
+
+├── docs/                  # Project documentation
+
+├── config/                # Sheet registry & credentials (gitignored)
+
 ├── requirements.txt
+
 └── README.md
 
 📊 Dashboard Overview
