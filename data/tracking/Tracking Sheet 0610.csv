@@ -1,0 +1,30 @@
+First Name,Last Name,Full Name,Email Address,Alternative Gmail,Group Number,Group Link,Dpt. Associate Name,TM Associate Name,OBM Attendance,Filled OBM Form,Week 1,Week 2,Week 3,Week 4,Submitted Feedback Form,Submitted Reflective Video,Submitted Peer Evaluation Form,Submitted Self Evaluation Form,Missing Deliverables,Complete All Criteria,Status,Remarks,Communication Skills,Team Collaboration,Remote Work Adaptability,Self-Motivation and Initiative,Problem-Solving and Critical Thinking,"Manager Evaluation
+Average","Peer Evaluation
+Average","Self Evaluation
+Average","Overall Evaluation
+Percentage","Peer Evaluation
+>=70%",Star Performer
+Hassan ,Shasssan,Hassan Shasssan,hass@yohu.com,hass@gmailcom,1,,Gumball,Ajlal,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,Eligible,,Goofy,4,3,2,1,1,44,80,90,80,Internship Completed,Not A Star Performer
+Loofy,Goofy,Loofy Goofy,loof@gmail.com,,2,,Gumball,Ajlal,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,Eligible,,Doofy,5,4,3,2,1,60,85,93,82,Internship Completed,Not A Star Performer
+Celia,Five,Celia Five,cel@yuhu.com,cel@gmail.com,3,,Gumball,Ajlal,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,Eligible,,Regular Show,5,5,5,5,5,100,90,90,98,Internship Completed,Star Performer
+Mega,Mind,Mega Mind,meg@gmail.com,,1,,Gumball,Ajlal,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,Eligible,,Good ,5,4,5,4,5,92,83,92,85,Internship Completed,Not A Star Performer
+Benson ,Moore,Benson Moore,ben@gmail.com,,2,,Gumball,Ajlal,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,,Not Eligible,,,,,,,,0,,,,Not Completed,Not A Star Performer
+Bob,Builder,Bob Builder,bob@gmail.com,,3,,Gumball,Ajlal,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,,Not Eligible,,,,,,,,0,,,,Not Completed,Not A Star Performer
+Dora,Explorer,Dora Explorer,dora@gmail.com,,1,,Gumball,Ajlal,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,,Not Eligible,,,,,,,,0,,,,Not Completed,Not A Star Performer
+Diego,Espaniol,Diego Espaniol,diego@gmail.com,,2,,Gumball,Ajlal,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,,Not Eligible,,,,,,,,0,,,,Not Completed,Not A Star Performer
+Pops,Mellard,Pops Mellard,pops@yuhu.com,pops@gmail.com,3,,Gumball,Ajlal,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,,Not Eligible,,,,,,,,0,,,,Not Completed,Not A Star Performer
+Dorky,Bubbles,Dorky Bubbles,dork@yuhu.com,dork@gmail.com,2,,Gumball,Ajlal,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,Not Eligible,Voluntary Resignation,Stupid.,,,,,,0,,,,Not Completed,Not A Star Performer
+,,,,,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,Not Eligible,,,,,,,,0,,,,Not Completed,Not A Star Performer
+,,,,,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,Not Eligible,,,,,,,,0,,,,Not Completed,Not A Star Performer
+,,,,,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,Not Eligible,,,,,,,,0,,,,Not Completed,Not A Star Performer
+,,,,,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,Not Eligible,,,,,,,,0,,,,Not Completed,Not A Star Performer
+,,,,,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,Not Eligible,,,,,,,,0,,,,Not Completed,Not A Star Performer
+,,,,,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,Not Eligible,,,,,,,,0,,,,Not Completed,Not A Star Performer
+,,,,,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,Not Eligible,,,,,,,,0,,,,Not Completed,Not A Star Performer
+,,,,,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,Not Eligible,,,,,,,,0,,,,Not Completed,Not A Star Performer
+,,,,,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,Not Eligible,,,,,,,,0,,,,Not Completed,Not A Star Performer
+,,,,,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,Not Eligible,,,,,,,,0,,,,Not Completed,Not A Star Performer
+,,,,,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,Not Eligible,,,,,,,,0,,,,Not Completed,Not A Star Performer
+,,,,,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,Not Eligible,,,,,,,,0,,,,Not Completed,Not A Star Performer
+,,,,,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,Not Eligible,,,,,,,,0,,,,Not Completed,Not A Star Performer
+,,,,,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,Not Eligible,,,,,,,,0,,,,Not Completed,Not A Star Performer
